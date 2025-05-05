@@ -1,7 +1,7 @@
 ## I am ashish 
 
 Computer Science Student at Invertis University<br>
-I created models in machine learning<br>
+Currently I am learning ML<br>
 
 
 ## 🌐 Socials:
