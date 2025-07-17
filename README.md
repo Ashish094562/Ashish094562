@@ -1,7 +1,7 @@
 ## I am ashish 
 
 Computer Science Student at Invertis University<br>
-Currently I am learning ML<br>
+Currently I am learning DSA and AI/ML<br>
 
 
 ## 🌐 Socials:
