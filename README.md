@@ -228,21 +228,3 @@ Email me at Ashishsingh094562@gmail.com
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Ashish094562) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-singh-768060253/)
 
 ⭐️ *From [Ashish Singh](Ashish094562)*
-
----
-
-<div align="center">
-
-## 🌟 Crafted with ❤️
-
-*This README was generated using **[README Generator](https://readme-g.vercel.app/)** - The ultimate tool for creating stunning GitHub profile READMEs!*
-
-### 💡 Want to create your own amazing README?
-
-[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-g.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Follow%20Creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi-i05)
-
----
-
-
-</div>
