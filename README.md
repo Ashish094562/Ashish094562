@@ -45,22 +45,6 @@ Email me at Ashishsingh094562@gmail.com
   </tr>
 </table>
 
-### Frontend
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-      <br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-      <br/>
-      <sub><b>Tailwind CSS</b></sub>
-    </td>
-  </tr>
-</table>
 
 ### Backend
 
@@ -97,23 +81,6 @@ Email me at Ashishsingh094562@gmail.com
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
       <br/>
       <sub><b>SQLite</b></sub>
-    </td>
-  </tr>
-</table>
-
-### DevOps
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-      <br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
-      <br/>
-      <sub><b>GitHub Actions</b></sub>
     </td>
   </tr>
 </table>
@@ -193,19 +160,21 @@ Email me at Ashishsingh094562@gmail.com
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🚀 Projects</span>
 
-#### Diabetes Prediction
+#### Plant Disease Recognition using Deep Learning & TFLite
 
-• Developed a full-stack system for real-time diabetes prediction using user health metrics. 
-• Built React frontend, Spring Boot backend, PostgreSQL database, and Flask ML microservice. 
-• Ensemble ML model (Logistic Regression + XGBoost) with class balancing. 
-• hyperparameter tuning for improved minority class prediction. 
-• Deployed via Render and vercel with code hosted on GitHub, achieving a fully functional web app.
+1. CNN-based image classification for 39 plant disease & healthy classes
+2. Achieved ~99.1% accuracy with strong macro-averaged precision, recall, and F1
+3. Low-latency inference (~43 ms mean, ~78 ms P95) on CPU using TFLite
+4. Transfer learning with EfficientNet, fine-tuned for optimal performance
+5. TensorFlow Lite (FLOAT32) for deployment stability and correctness
+6. Real-time predictions via Streamlit UI
+7. Designed for CPU-based & edge-ready deployment
+8. INT8 quantization planned for further size reduction and faster inference
 
-**Tech Stack:** `Java Spring Boot`, `React`, `Python Flask`, `PostgreSQL`, `Tailwind CSS`, `Render`, `Vercel`
+**Tech Stack:** `Python`, `NumPy`, `Pandas`, ` Scikit-learn`, `TensorFlow`, `Keras`, `TFLite`,`CNN`,`Image Classification`,`Streamlit`,`Streamlit cloud`, `Hugging Face Spaces`, `Hugging Face Hub`,`Git`,`GitHub`
 
-[Repository](https://github.com/Ashish094562/Diabetes_Prediction.git) | [Live Demo](ttps://diabetes-web-lime.vercel.app)
+[Repository](https://github.com/Ashish094562/plant-disease-streamlit.git) | [Live Demo](https://plant-disease-app-8.streamlit.app/)
 
-*May 2025 - June 2025*
 
 
 
