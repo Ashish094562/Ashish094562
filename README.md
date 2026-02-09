@@ -20,7 +20,7 @@ Email me at Ashishsingh094562@gmail.com
 
 ## <span style="font-size: 1.8em; font-weight: bold;">📄 Resume</span>
 
-[View Resume](https://drive.google.com/file/d/1oOc8Oe52vPo2kRHf7yMQQZIpn9yb-Q5t/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1c4nXQ-WXM_2Q4cjGuS2upulUuPgX1xEq/view?usp=sharing)
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🌐 Connect with me</span>
 
