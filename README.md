@@ -1,6 +1,6 @@
 # <span style="font-size: 2.5em; font-weight: bold;">Hi there, I'm Ashish Singh</span> 👋
 
-> B.Tech CSE student | Java & Python enthusiast | On a journey to become a Data Scientist
+> B.Tech CSE student | Java & Python enthusiast | On a journey to become a Developer
 
 ## <span style="font-size: 1.8em; font-weight: bold;">👯 I'm looking to collaborate on</span>
 
@@ -12,7 +12,7 @@ I’m looking for help with improving my machine learning and data science skill
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🌱 I'm currently learning</span>
 
-I’m currently learning Data Structures and Algorithms in Java, and Machine Learning in Python.
+I’m currently learning Data Structures and Algorithms in Java, and Machine Learning and Backend in Python.
 
 ## <span style="font-size: 1.8em; font-weight: bold;">📫 How to reach me</span>
 
@@ -200,13 +200,7 @@ Email me at Ashishsingh094562@gmail.com
 
 ## 📊 GitHub Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ashish094562&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
 ![GitHub Streak](https://gh-streak-stats.vercel.app/?user=Ashish094562&theme=radical&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=1f6feb&sideLabels=8b949e&dates=8b949e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish094562&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&card_width=445&langs_count=8)
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🏆 Coding Profiles</span>
 
