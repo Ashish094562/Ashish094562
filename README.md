@@ -160,6 +160,27 @@ Email me at Ashishsingh094562@gmail.com
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🚀 Projects</span>
 
+### Plant Disease Recognition Web Application 
+
+1. Developed a CNN-based image classification system using EfficientNet (Transfer Learning) for 39 plant disease classes with 99%+ macro F1-score (~0.991).
+2. Converted TensorFlow model to TFLite, achieving ~43ms CPU inference time.
+3. Built RESTful backend using Flask and Gunicorn, integrated with React, and deployed via Render & Vercel.
+4. Hosted model on Hugging Face Hub for dynamic loading and scalable serving.
+5. Designed modular architecture (model_loader, inference pipeline) for maintainability and future quantization (INT8 planned).
+
+**Tech Stack:** `Python`, `React.js`, `Flask`, `TensorFlow`, `Keras`, `Vercel`, `Render`, `Hugging Face Hub`
+[Repository](https://github.com/Ashish094562/Plant-Disease-WebApplication.git) | [Live Demo](https://plant-disease-web-application.vercel.app/)
+
+### Diabetes Prediction Web Application 
+1. Developed a full-stack ML web app using React (frontend) and Flask REST APIs (backend) with MongoDB Atlas integration.
+2. Built and deployed a stacked ensemble model (Logistic Regression + XGBoost with SMOTE) achieving 96.6% accuracy and 0.97 ROC-AUC.
+3. Implemented prediction, record storage, retrieval, and deletion APIs with secure CORS configuration.
+4. Deployed frontend on Vercel and backend on Render using Gunicorn for production.
+5. Designed responsive UI with Tailwind CSS and ensured scalable cloud-based architecture.
+
+**Tech Stack:** `React.js`, `Tailwind CSS`, `Flask`, `Python`, `Scikit-learn`, `XGBoost`, `MongoDB Atlas`, `Vercel`, `Render`
+[Repository](https://github.com/Ashish094562/Diabetes-WebApplication.git) | [Live Demo](https://diabetes-web-application.vercel.app/)
+
 #### Plant Disease Recognition using Deep Learning & TFLite
 
 1. CNN-based image classification for 39 plant disease & healthy classes
@@ -171,8 +192,7 @@ Email me at Ashishsingh094562@gmail.com
 7. Designed for CPU-based & edge-ready deployment
 8. INT8 quantization planned for further size reduction and faster inference
 
-**Tech Stack:** `Python`, `NumPy`, `Pandas`, ` Scikit-learn`, `TensorFlow`, `Keras`, `TFLite`,`CNN`,`Image Classification`,`Streamlit`,`Streamlit cloud`, `Hugging Face Spaces`, `Hugging Face Hub`,`Git`,`GitHub`
-
+**Tech Stack:** `Python`, `NumPy`, `Pandas`, ` Scikit-learn`, `TensorFlow`, `Keras`, `TFLite`,`CNN`,`Image Classification`,`Streamlit`,`Streamlit cloud`, `Hugging Face Spaces`, `Hugging Face Hub`
 [Repository](https://github.com/Ashish094562/plant-disease-streamlit.git) | [Live Demo](https://plant-disease-app-8.streamlit.app/)
 
 
