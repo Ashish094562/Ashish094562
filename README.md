@@ -189,7 +189,7 @@ Email me at Ashishsingh094562@gmail.com
 8. INT8 quantization planned for further size reduction and faster inference
 
 **Tech Stack:** `Python`, `NumPy`, `Pandas`, ` Scikit-learn`, `TensorFlow`, `Keras`, `TFLite`,`CNN`,`Image Classification`,`Streamlit`,`Streamlit cloud`, `Hugging Face Spaces`, `Hugging Face Hub`
-[Repository](https://github.com/Ashish094562/plant-disease-streamlit.git) | [Live Demo](https://plant-disease-app-8.streamlit.app/)
+[Repository](https://github.com/Ashish094562/plant-disease-streamlit.git) | [Live Demo](https://plant-disease-app-6ad3rjqvcy9eqq2n9bwemj.streamlit.app/)
 
 
 
