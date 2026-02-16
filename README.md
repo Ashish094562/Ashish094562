@@ -18,10 +18,6 @@ I’m currently learning Data Structures and Algorithms in Java, and Machine Lea
 
 Email me at Ashishsingh094562@gmail.com
 
-## <span style="font-size: 1.8em; font-weight: bold;">📄 Resume</span>
-
-[View Resume](https://drive.google.com/file/d/1c4nXQ-WXM_2Q4cjGuS2upulUuPgX1xEq/view?usp=sharing)
-
 ## <span style="font-size: 1.8em; font-weight: bold;">🌐 Connect with me</span>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Ashish094562) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-singh-768060253/)
