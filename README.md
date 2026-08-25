@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
+<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 
 <h3 align="center">
 🚀 B.Tech CSE Student | Java Developer | Machine Learning Enthusiast
@@ -18,16 +18,16 @@
 
 🌱 Currently learning:
 
-* Data Structures & Algorithms (Java)
-* Spring Boot
-* Machine Learning
-* System Design
+- Data Structures & Algorithms (Java)
+- Spring Boot
+- Machine Learning
+- System Design
 
 🎯 Goal:
 
-* Secure a Software Engineer / Data Scientist role
-* Contribute to impactful open-source projects
-* Build scalable real-world applications
+- Secure a Software Engineer / Data Scientist role
+- Contribute to impactful open-source projects
+- Build scalable real-world applications
 
 📫 Reach me at:
 
@@ -64,13 +64,19 @@
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,flask" />
+<img src="https://skillicons.dev/icons?i=spring,flask,fastapi" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 </p>
 
 ### Tools
@@ -93,6 +99,43 @@ Scikit-Learn • Pandas • NumPy • XGBoost • Matplotlib • Seaborn
 
 # 🚀 Featured Projects
 
+## 🧠 MindScore AI — Mental Health Prediction
+
+🔹 Full-stack Machine Learning regression application
+
+🔹 Predicts student mental health scores using social-media, academic, lifestyle, and stress-related factors
+
+🔹 Random Forest Regressor with **R² Score: 0.8776**
+
+🔹 Complete Scikit-Learn preprocessing pipeline with `ColumnTransformer`
+
+🔹 Feature engineering with country grouping and ordinal encoding
+
+🔹 Hyperparameter tuning using `RandomizedSearchCV`
+
+🔹 FastAPI REST API with Pydantic validation
+
+🔹 Responsive HTML/CSS/JavaScript frontend
+
+🔹 Deployed using **Vercel + Render**
+
+### Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-Learn`
+`Random Forest` `FastAPI` `Pydantic` `Joblib`
+`HTML` `CSS` `JavaScript` `Vercel` `Render`
+
+🔗 Repository:  
+https://github.com/Ashish094562/Mental_Health_score
+
+🌐 Live Demo:  
+https://mental-health-prediction-score-oth9xmeky.vercel.app/
+
+🔗 Backend API:  
+https://mental-health-prediction-score-0r42.onrender.com
+
+---
+
 ## 🌿 Plant Disease Recognition Web Application
 
 🔹 CNN-based image classification system using EfficientNet Transfer Learning
@@ -112,10 +155,10 @@ Scikit-Learn • Pandas • NumPy • XGBoost • Matplotlib • Seaborn
 `Python` `TensorFlow` `Keras` `Flask` `React.js`
 `TFLite` `Render` `Vercel`
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Ashish094562/Plant-Disease-WebApplication
 
-🌐 Live Demo:
+🌐 Live Demo:  
 https://plant-disease-web-application.vercel.app/
 
 ---
@@ -143,10 +186,10 @@ https://plant-disease-web-application.vercel.app/
 `MongoDB Atlas`
 `Tailwind CSS`
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Ashish094562/Diabetes-WebApplication
 
-🌐 Live Demo:
+🌐 Live Demo:  
 https://diabetes-web-application.vercel.app/
 
 ---
