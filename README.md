@@ -129,34 +129,6 @@
 
 A full-stack machine learning application that predicts student mental health scores using academic, lifestyle, social-media, and stress-related factors.
 
-### 🔬 Machine Learning Pipeline
-
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Preprocessing
-   ↓
-ColumnTransformer
-   ↓
-Random Forest Regression
-   ↓
-Hyperparameter Tuning
-   ↓
-Model Evaluation
-   ↓
-FastAPI
-   ↓
-Web Application
-   ↓
-Deployment
-```
-
 ### ✨ Highlights
 
 - 🤖 Random Forest Regression
@@ -187,35 +159,9 @@ https://mental-health-prediction-score-0r42.onrender.com
 
 ---
 
-# 🌿 Plant Disease Recognition
+## 🌿 Plant Disease Recognition
 
 A deep learning based computer vision application for identifying plant diseases from leaf images.
-
-### 🧠 Deep Learning Pipeline
-
-```text
-Plant Image
-     ↓
-Image Preprocessing
-     ↓
-Data Augmentation
-     ↓
-EfficientNet Transfer Learning
-     ↓
-CNN Classification
-     ↓
-39 Disease Classes
-     ↓
-Model Evaluation
-     ↓
-TensorFlow Lite Optimization
-     ↓
-Flask API
-     ↓
-React Application
-     ↓
-Deployment
-```
 
 ### ✨ Highlights
 
@@ -241,35 +187,9 @@ https://plant-disease-web-application.vercel.app/
 
 ---
 
-# 🩺 Diabetes Prediction
+## 🩺 Diabetes Prediction
 
 A full-stack machine learning application that predicts diabetes using multiple machine learning algorithms and a stacked ensemble model.
-
-### 🔬 Model Pipeline
-
-```text
-Dataset
-   ↓
-Data Cleaning
-   ↓
-EDA
-   ↓
-Feature Engineering
-   ↓
-Preprocessing
-   ↓
-Multiple ML Models
-   ↓
-Ensemble Learning
-   ↓
-Model Evaluation
-   ↓
-Flask API
-   ↓
-React Frontend
-   ↓
-Deployment
-```
 
 ### ✨ Highlights
 
@@ -292,58 +212,6 @@ https://github.com/Ashish094562/Diabetes-WebApplication
 
 🌐 **Live Demo:**  
 https://diabetes-web-application.vercel.app/
-
----
-
-# 🧪 Machine Learning Workflow
-
-My approach to ML projects generally follows:
-
-```text
-             ┌──────────────────┐
-             │   Problem        │
-             │   Understanding  │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Data Collection  │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ EDA & Data       │
-             │ Understanding    │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Data Cleaning    │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Feature          │
-             │ Engineering      │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Preprocessing    │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Model Training   │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Evaluation &     │
-             │ Optimization     │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ API Development  │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │ Deployment       │
-             └──────────────────┘
-```
 
 ---
 
