@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ashish Singh
 
 <h3 align="center">
-🚀 Java Developer | Backend Developer | Machine Learning Enthusiast
+🤖 Machine Learning Enthusiast | Deep Learning Developer | Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Developer;Spring+Boot+Developer;Backend+Development+Enthusiast;Machine+Learning+Enthusiast;DSA+in+Java;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Deep+Learning+Developer;Computer+Vision+Enthusiast;Python+Developer;AI+Application+Developer;Building+Real-World+ML+Solutions" />
 </p>
 
 <p align="center">
@@ -24,93 +24,153 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Final Year B.Tech Computer Science Student**
+🎓 **Computer Science Student** passionate about **Machine Learning, Deep Learning, and Artificial Intelligence**.
 
-💻 Passionate about building **backend systems, machine learning applications, and real-world software solutions**.
+🤖 I enjoy developing end-to-end ML solutions — from **data preprocessing and exploratory data analysis to model training, evaluation, optimization, API development, and deployment**.
 
-🌱 Currently focused on:
+💡 My primary interests include:
 
-- ☕ Java & Object-Oriented Programming
-- 🧩 Data Structures & Algorithms
-- 🌱 Spring Boot & Backend Development
-- 🗄️ SQL & Database Management
-- 🤖 Machine Learning
-- 🏗️ System Design
-- 🔧 REST API Development
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 📊 Exploratory Data Analysis
+- 🔬 Feature Engineering
+- 🧮 Predictive Modeling
+- ⚡ Model Optimization
+- 🌐 ML Model Deployment
+- 🔌 REST API Development
 
-🎯 My goal is to become a **Software Engineer** and build scalable, reliable, and impactful applications.
+🛠️ I have worked with both **traditional machine learning algorithms** and **deep learning architectures**, building applications that solve practical problems.
 
-🚀 I enjoy turning ideas into working projects and continuously improving my problem-solving and development skills.
+🎯 **Goal:** Build intelligent, scalable, and production-ready AI/ML applications and grow as a Machine Learning Engineer.
 
 📫 **Email:** [ashishsingh094562@gmail.com](mailto:ashishsingh094562@gmail.com)
 
 ---
 
-# 🛠️ Tech Stack
+# 🤖 AI / Machine Learning Skills
 
-### 💻 Programming Languages
+### 🧠 Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
+`Scikit-Learn` `XGBoost` `LightGBM` `Random Forest` `Logistic Regression` `Decision Trees`
 
-### ⚙️ Backend Development
+`Regression` `Classification` `Ensemble Learning` `Model Evaluation` `Hyperparameter Tuning`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,tomcat" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
-</p>
-
-### 🤖 Machine Learning & Data Science
+### 🧬 Deep Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-**Libraries & Tools**
+`TensorFlow` `Keras` `CNN` `Transfer Learning` `EfficientNet` `Image Classification` `TFLite`
 
-`Scikit-Learn` `Pandas` `NumPy` `XGBoost` `Matplotlib` `Seaborn` `Plotly` `Keras` `TFLite`
+### 👁️ Computer Vision
 
-### 🔧 Tools & DevOps
+`Image Classification` `Image Preprocessing` `CNNs` `Transfer Learning` `Data Augmentation`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,gradle" />
-</p>
+`EfficientNet` `TensorFlow` `Keras` `TensorFlow Lite`
 
-### ☁️ Deployment
+### 📊 Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</p>
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
 
-`Render` `Vercel` `Gunicorn`
+- Exploratory Data Analysis
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
+- Encoding
+- Feature Scaling
+- Data Visualization
+- Model Evaluation
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+`Scikit-Learn` `Pandas` `NumPy` `XGBoost` `LightGBM` `Keras` `Matplotlib` `Seaborn` `Plotly` `TFLite`
+
+### 🌐 ML Deployment & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,docker,vercel" />
+</p>
+
+`Flask` `FastAPI` `REST APIs` `Render` `Vercel` `Gunicorn`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
+
+---
+
+# 🚀 Featured Machine Learning Projects
 
 ## 🧠 MindScore AI — Mental Health Prediction
 
 A full-stack machine learning application that predicts student mental health scores using academic, lifestyle, social-media, and stress-related factors.
 
+### 🔬 Machine Learning Pipeline
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Preprocessing
+   ↓
+ColumnTransformer
+   ↓
+Random Forest Regression
+   ↓
+Hyperparameter Tuning
+   ↓
+Model Evaluation
+   ↓
+FastAPI
+   ↓
+Web Application
+   ↓
+Deployment
+```
+
 ### ✨ Highlights
 
-- 📊 Random Forest Regression model
+- 🤖 Random Forest Regression
 - 🎯 **R² Score: 0.8776**
-- 🔄 Complete Scikit-Learn preprocessing pipeline
-- 🧩 `ColumnTransformer` based preprocessing
-- 🛠️ Feature engineering and ordinal encoding
-- 🌍 Country grouping and feature transformation
-- 🔍 Hyperparameter tuning using `RandomizedSearchCV`
+- 📊 Complete EDA and data preprocessing
+- 🧩 `ColumnTransformer` pipeline
+- 🔧 Feature engineering
+- 🌍 Country grouping
+- 🔢 Ordinal encoding
+- 🔍 `RandomizedSearchCV` hyperparameter tuning
 - ⚡ FastAPI REST API
-- ✅ Pydantic data validation
-- 🌐 Responsive frontend
-- 🚀 Deployed using Vercel and Render
+- ✅ Pydantic validation
+- 🌐 Interactive web frontend
+- 🚀 Vercel + Render deployment
 
 ### 🧰 Tech Stack
 
@@ -127,16 +187,43 @@ https://mental-health-prediction-score-0r42.onrender.com
 
 ---
 
-## 🌿 Plant Disease Recognition
+# 🌿 Plant Disease Recognition
 
-A deep-learning based plant disease recognition system capable of classifying plant diseases from images.
+A deep learning based computer vision application for identifying plant diseases from leaf images.
+
+### 🧠 Deep Learning Pipeline
+
+```text
+Plant Image
+     ↓
+Image Preprocessing
+     ↓
+Data Augmentation
+     ↓
+EfficientNet Transfer Learning
+     ↓
+CNN Classification
+     ↓
+39 Disease Classes
+     ↓
+Model Evaluation
+     ↓
+TensorFlow Lite Optimization
+     ↓
+Flask API
+     ↓
+React Application
+     ↓
+Deployment
+```
 
 ### ✨ Highlights
 
 - 🧠 EfficientNet Transfer Learning
 - 🌱 **39 Plant Disease Classes**
-- 🎯 Macro F1 Score ≈ **99%**
-- ⚡ TFLite optimized model
+- 🎯 **Macro F1 Score ≈ 99%**
+- 🔬 Deep learning based image classification
+- ⚡ TensorFlow Lite optimization
 - 🚀 Approximately **43ms CPU inference**
 - 🔌 Flask REST API
 - ⚛️ React frontend
@@ -144,7 +231,7 @@ A deep-learning based plant disease recognition system capable of classifying pl
 
 ### 🧰 Tech Stack
 
-`Python` `TensorFlow` `Keras` `EfficientNet` `TFLite` `Flask` `React.js` `Render` `Vercel`
+`Python` `TensorFlow` `Keras` `EfficientNet` `CNN` `Transfer Learning` `TFLite` `Flask` `React.js` `Render` `Vercel`
 
 🔗 **Repository:**  
 https://github.com/Ashish094562/Plant-Disease-WebApplication
@@ -154,24 +241,51 @@ https://plant-disease-web-application.vercel.app/
 
 ---
 
-## 🩺 Diabetes Prediction Web Application
+# 🩺 Diabetes Prediction
 
-A full-stack machine learning application for diabetes prediction using an ensemble-based machine learning approach.
+A full-stack machine learning application that predicts diabetes using multiple machine learning algorithms and a stacked ensemble model.
+
+### 🔬 Model Pipeline
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+EDA
+   ↓
+Feature Engineering
+   ↓
+Preprocessing
+   ↓
+Multiple ML Models
+   ↓
+Ensemble Learning
+   ↓
+Model Evaluation
+   ↓
+Flask API
+   ↓
+React Frontend
+   ↓
+Deployment
+```
 
 ### ✨ Highlights
 
-- 🤖 Stacked Ensemble Machine Learning Model
-- 🎯 **96.6% Accuracy**
-- 📈 **0.97 ROC-AUC**
+- 🤖 Stacked Ensemble Learning
+- 📈 **96.6% Accuracy**
+- 🎯 **0.97 ROC-AUC**
 - 🧠 XGBoost + Scikit-Learn
+- 📊 Data preprocessing and feature engineering
 - 🗄️ MongoDB Atlas integration
-- ⚛️ React frontend
 - 🔥 Flask backend
-- 🎨 Tailwind CSS interface
+- ⚛️ React frontend
+- 🎨 Tailwind CSS
 
 ### 🧰 Tech Stack
 
-`Python` `React` `Flask` `Scikit-Learn` `XGBoost` `MongoDB Atlas` `Tailwind CSS`
+`Python` `Scikit-Learn` `XGBoost` `Flask` `React` `MongoDB Atlas` `Tailwind CSS`
 
 🔗 **Repository:**  
 https://github.com/Ashish094562/Diabetes-WebApplication
@@ -181,60 +295,70 @@ https://diabetes-web-application.vercel.app/
 
 ---
 
-# 🧩 What I'm Currently Learning
+# 🧪 Machine Learning Workflow
+
+My approach to ML projects generally follows:
 
 ```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── Multithreading
- └── Advanced Java
-
-Data Structures & Algorithms
- ├── Arrays
- ├── Strings
- ├── Linked Lists
- ├── Stack & Queue
- ├── Trees
- ├── Graphs
- ├── Recursion
- └── Dynamic Programming
-
-Backend Development
- ├── Spring
- ├── Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Hibernate
- └── Microservices
-
-Database
- ├── MySQL
- ├── PostgreSQL
- ├── MongoDB
- └── SQL
-
-Software Engineering
- ├── System Design
- ├── Design Patterns
- ├── Git & GitHub
- └── Docker
+             ┌──────────────────┐
+             │   Problem        │
+             │   Understanding  │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Data Collection  │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ EDA & Data       │
+             │ Understanding    │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Data Cleaning    │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Feature          │
+             │ Engineering      │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Preprocessing    │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Model Training   │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Evaluation &     │
+             │ Optimization     │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ API Development  │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Deployment       │
+             └──────────────────┘
 ```
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Areas of Interest
 
-- ☕ Mastering **Java**
-- 🧩 Solving **DSA problems**
-- 🌱 Learning **Spring Boot**
-- 🔥 Building **backend applications**
-- 🗄️ Improving **SQL & database skills**
-- 🤖 Exploring **Machine Learning**
-- 🏗️ Learning **System Design**
-- 💼 Preparing for **Software Engineering interviews**
-- 🌍 Contributing to **open-source projects**
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Science
+- 🔬 Applied AI
+- 🧬 Transfer Learning
+- ⚡ Model Optimization
+- 🌐 ML Model Deployment
+- 🔌 AI/ML APIs
+- 🏗️ Production ML Systems
 
 ---
 
@@ -248,36 +372,17 @@ Software Engineering
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish094562&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashish094562&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish094562&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Ashish094562">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ashish-singh-768060253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:ashishsingh094562@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -294,5 +399,5 @@ Software Engineering
 </h3>
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <i>"Build Intelligent Systems. Solve Real Problems. Keep Learning."</i>
 </p>
