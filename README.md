@@ -1,18 +1,298 @@
-# 💫 About Me:
-💻 Passionate about Java, Spring Boot, Machine Learning, and Backend Development<br><br>🌱 Currently learning:<br><br>Data Structures & Algorithms (Java)<br>Spring Boot<br>Machine Learning<br>System Design<br>🎯 Goal:<br><br>Secure a Software Engineer / Data Scientist role<br>Contribute to impactful open-source projects<br>Build scalable real-world applications
+# 👋 Hi, I'm Ashish Singh
 
+<h3 align="center">
+🚀 Java Developer | Backend Developer | Machine Learning Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-singh-768060253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishsingh094562@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Developer;Spring+Boot+Developer;Backend+Development+Enthusiast;Machine+Learning+Enthusiast;DSA+in+Java;Aspiring+Software+Engineer" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ashish094562&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ashish094562&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashish094562&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Ashish094562">
+    <img src="https://img.shields.io/badge/GitHub-Ashish094562-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-singh-768060253/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Singh-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ashishsingh094562@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ashish094562&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+🎓 **Final Year B.Tech Computer Science Student**
+
+💻 Passionate about building **backend systems, machine learning applications, and real-world software solutions**.
+
+🌱 Currently focused on:
+
+- ☕ Java & Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🌱 Spring Boot & Backend Development
+- 🗄️ SQL & Database Management
+- 🤖 Machine Learning
+- 🏗️ System Design
+- 🔧 REST API Development
+
+🎯 My goal is to become a **Software Engineer** and build scalable, reliable, and impactful applications.
+
+🚀 I enjoy turning ideas into working projects and continuously improving my problem-solving and development skills.
+
+📫 **Email:** [ashishsingh094562@gmail.com](mailto:ashishsingh094562@gmail.com)
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,tomcat" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+**Libraries & Tools**
+
+`Scikit-Learn` `Pandas` `NumPy` `XGBoost` `Matplotlib` `Seaborn` `Plotly` `Keras` `TFLite`
+
+### 🔧 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,gradle" />
+</p>
+
+### ☁️ Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+`Render` `Vercel` `Gunicorn`
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 MindScore AI — Mental Health Prediction
+
+A full-stack machine learning application that predicts student mental health scores using academic, lifestyle, social-media, and stress-related factors.
+
+### ✨ Highlights
+
+- 📊 Random Forest Regression model
+- 🎯 **R² Score: 0.8776**
+- 🔄 Complete Scikit-Learn preprocessing pipeline
+- 🧩 `ColumnTransformer` based preprocessing
+- 🛠️ Feature engineering and ordinal encoding
+- 🌍 Country grouping and feature transformation
+- 🔍 Hyperparameter tuning using `RandomizedSearchCV`
+- ⚡ FastAPI REST API
+- ✅ Pydantic data validation
+- 🌐 Responsive frontend
+- 🚀 Deployed using Vercel and Render
+
+### 🧰 Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Random Forest` `FastAPI` `Pydantic` `Joblib` `HTML` `CSS` `JavaScript` `Vercel` `Render`
+
+🔗 **Repository:**  
+https://github.com/Ashish094562/Mental_Health_score
+
+🌐 **Live Demo:**  
+https://mental-health-prediction-score-oth9xmeky.vercel.app/
+
+🔗 **Backend API:**  
+https://mental-health-prediction-score-0r42.onrender.com
+
+---
+
+## 🌿 Plant Disease Recognition
+
+A deep-learning based plant disease recognition system capable of classifying plant diseases from images.
+
+### ✨ Highlights
+
+- 🧠 EfficientNet Transfer Learning
+- 🌱 **39 Plant Disease Classes**
+- 🎯 Macro F1 Score ≈ **99%**
+- ⚡ TFLite optimized model
+- 🚀 Approximately **43ms CPU inference**
+- 🔌 Flask REST API
+- ⚛️ React frontend
+- ☁️ Deployed using Render, Vercel and Hugging Face
+
+### 🧰 Tech Stack
+
+`Python` `TensorFlow` `Keras` `EfficientNet` `TFLite` `Flask` `React.js` `Render` `Vercel`
+
+🔗 **Repository:**  
+https://github.com/Ashish094562/Plant-Disease-WebApplication
+
+🌐 **Live Demo:**  
+https://plant-disease-web-application.vercel.app/
+
+---
+
+## 🩺 Diabetes Prediction Web Application
+
+A full-stack machine learning application for diabetes prediction using an ensemble-based machine learning approach.
+
+### ✨ Highlights
+
+- 🤖 Stacked Ensemble Machine Learning Model
+- 🎯 **96.6% Accuracy**
+- 📈 **0.97 ROC-AUC**
+- 🧠 XGBoost + Scikit-Learn
+- 🗄️ MongoDB Atlas integration
+- ⚛️ React frontend
+- 🔥 Flask backend
+- 🎨 Tailwind CSS interface
+
+### 🧰 Tech Stack
+
+`Python` `React` `Flask` `Scikit-Learn` `XGBoost` `MongoDB Atlas` `Tailwind CSS`
+
+🔗 **Repository:**  
+https://github.com/Ashish094562/Diabetes-WebApplication
+
+🌐 **Live Demo:**  
+https://diabetes-web-application.vercel.app/
+
+---
+
+# 🧩 What I'm Currently Learning
+
+```text
+Java
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ ├── Multithreading
+ └── Advanced Java
+
+Data Structures & Algorithms
+ ├── Arrays
+ ├── Strings
+ ├── Linked Lists
+ ├── Stack & Queue
+ ├── Trees
+ ├── Graphs
+ ├── Recursion
+ └── Dynamic Programming
+
+Backend Development
+ ├── Spring
+ ├── Spring Boot
+ ├── REST APIs
+ ├── Spring Data JPA
+ ├── Hibernate
+ └── Microservices
+
+Database
+ ├── MySQL
+ ├── PostgreSQL
+ ├── MongoDB
+ └── SQL
+
+Software Engineering
+ ├── System Design
+ ├── Design Patterns
+ ├── Git & GitHub
+ └── Docker
+```
+
+---
+
+# 🎯 Current Focus
+
+- ☕ Mastering **Java**
+- 🧩 Solving **DSA problems**
+- 🌱 Learning **Spring Boot**
+- 🔥 Building **backend applications**
+- 🗄️ Improving **SQL & database skills**
+- 🤖 Exploring **Machine Learning**
+- 🏗️ Learning **System Design**
+- 💼 Preparing for **Software Engineering interviews**
+- 🌍 Contributing to **open-source projects**
+
+---
+
+# 💻 Coding Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ashish094562/">
+    <img src="https://img.shields.io/badge/LeetCode-Ashish094562-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish094562&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashish094562&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish094562&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ashish094562">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-singh-768060253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ashishsingh094562@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashish094562&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
