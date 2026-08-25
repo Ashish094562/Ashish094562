@@ -18,16 +18,16 @@
 
 🌱 Currently learning:
 
-- Data Structures & Algorithms (Java)
-- Spring Boot
-- Machine Learning
-- System Design
+* Data Structures & Algorithms (Java)
+* Spring Boot
+* Machine Learning
+* System Design
 
 🎯 Goal:
 
-- Secure a Software Engineer / Data Scientist role
-- Contribute to impactful open-source projects
-- Build scalable real-world applications
+* Secure a Software Engineer / Data Scientist role
+* Contribute to impactful open-source projects
+* Build scalable real-world applications
 
 📫 Reach me at:
 
@@ -64,19 +64,13 @@
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,flask" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 ### Tools
@@ -125,13 +119,16 @@ Scikit-Learn • Pandas • NumPy • XGBoost • Matplotlib • Seaborn
 `Random Forest` `FastAPI` `Pydantic` `Joblib`
 `HTML` `CSS` `JavaScript` `Vercel` `Render`
 
-🔗 Repository:  
+🔗 Repository:
+
 https://github.com/Ashish094562/Mental_Health_score
 
-🌐 Live Demo:  
+🌐 Live Demo:
+
 https://mental-health-prediction-score-oth9xmeky.vercel.app/
 
-🔗 Backend API:  
+🔗 Backend API:
+
 https://mental-health-prediction-score-0r42.onrender.com
 
 ---
@@ -155,10 +152,12 @@ https://mental-health-prediction-score-0r42.onrender.com
 `Python` `TensorFlow` `Keras` `Flask` `React.js`
 `TFLite` `Render` `Vercel`
 
-🔗 Repository:  
+🔗 Repository:
+
 https://github.com/Ashish094562/Plant-Disease-WebApplication
 
-🌐 Live Demo:  
+🌐 Live Demo:
+
 https://plant-disease-web-application.vercel.app/
 
 ---
@@ -186,10 +185,12 @@ https://plant-disease-web-application.vercel.app/
 `MongoDB Atlas`
 `Tailwind CSS`
 
-🔗 Repository:  
+🔗 Repository:
+
 https://github.com/Ashish094562/Diabetes-WebApplication
 
-🌐 Live Demo:  
+🌐 Live Demo:
+
 https://diabetes-web-application.vercel.app/
 
 ---
@@ -198,14 +199,16 @@ https://diabetes-web-application.vercel.app/
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish094562&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish094562&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish094562&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
