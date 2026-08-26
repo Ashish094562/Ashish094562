@@ -123,7 +123,7 @@
 
 ---
 
-# 🚀 Featured Machine Learning Projects
+# 🚀 Featured Projects
 
 ## 🧠 MindScore AI — Mental Health Prediction
 
