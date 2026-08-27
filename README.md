@@ -158,20 +158,38 @@ https://mental-health-prediction-score-oth9xmeky.vercel.app/
 https://mental-health-prediction-score-0r42.onrender.com
 
 ---
-### 🏠 NYC Airbnb Room Type Predictor
+## 🏠 NYC StayAI — Airbnb Room Type Predictor
 
-A full-stack ML application that predicts Airbnb room types using listing details such as location, price, reviews, availability, and neighborhood.
+A full-stack machine learning application that predicts Airbnb room types using listing location, price, minimum nights, reviews, host listings, availability, and neighborhood information.
 
-**Tech Stack:** Python · Pandas · Scikit-learn · Random Forest · FastAPI · HTML · CSS · JavaScript
+### ✨ Highlights
 
-**Model Performance:**
-- 🌲 Random Forest: **85.1% Accuracy | 71.5% Macro F1**
-- 🔧 Tuned Random Forest: **73.34% Cross-Validation Macro F1**
-- 🎯 Hyperparameter tuning with cross-validation
+- 🤖 Random Forest Classification
+- 🎯 **85.1% Accuracy**
+- 📊 **71.5% Macro F1 Score**
+- 🔧 Hyperparameter tuning with Cross-Validation
+- 📈 **73.34% Best CV Macro F1**
+- 🧩 ML preprocessing pipeline
+- 📍 Latitude & longitude features
+- 🏙️ NYC borough and neighborhood features
+- 📊 Prediction probabilities
+- ⚡ FastAPI REST API
+- ✅ Pydantic validation
+- 🌐 Interactive HTML/CSS/JavaScript frontend
+- 🚀 Vercel + Render deployment
 
-**Prediction Classes:** Entire home/apt · Private room · Shared room · Hotel room
+### 🧰 Tech Stack
 
-🔗 **[Live Demo](https://airbnb-room-type-predictor.vercel.app/)** · **[Backend API](https://airbnb-room-type-predictor-bvjh.onrender.com/)**
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Random Forest` `FastAPI` `Pydantic` `Joblib` `HTML` `CSS` `JavaScript` `Vercel` `Render`
+
+🔗 **Repository:**  
+https://github.com/Ashish094562/Airbnb_Room_Type_Predictor
+
+🌐 **Live Demo:**  
+https://airbnb-room-type-predictor.vercel.app/
+
+🔗 **Backend API:**  
+https://airbnb-room-type-predictor-bvjh.onrender.com/
 
 ---
 ## 🌿 Plant Disease Recognition
