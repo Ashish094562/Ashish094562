@@ -158,7 +158,22 @@ https://mental-health-prediction-score-oth9xmeky.vercel.app/
 https://mental-health-prediction-score-0r42.onrender.com
 
 ---
+### 🏠 NYC Airbnb Room Type Predictor
 
+A full-stack ML application that predicts Airbnb room types using listing details such as location, price, reviews, availability, and neighborhood.
+
+**Tech Stack:** Python · Pandas · Scikit-learn · Random Forest · FastAPI · HTML · CSS · JavaScript
+
+**Model Performance:**
+- 🌲 Random Forest: **85.1% Accuracy | 71.5% Macro F1**
+- 🔧 Tuned Random Forest: **73.34% Cross-Validation Macro F1**
+- 🎯 Hyperparameter tuning with cross-validation
+
+**Prediction Classes:** Entire home/apt · Private room · Shared room · Hotel room
+
+🔗 **[Live Demo](https://airbnb-room-type-predictor.vercel.app/)** · **[Backend API](https://airbnb-room-type-predictor-bvjh.onrender.com/)**
+
+---
 ## 🌿 Plant Disease Recognition
 
 A deep learning based computer vision application for identifying plant diseases from leaf images.
