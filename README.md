@@ -249,7 +249,7 @@ https://diabetes-web-application.vercel.app/
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true](https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true))
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashish094562)
 
