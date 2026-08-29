@@ -247,16 +247,11 @@ https://github.com/Ashish094562/Diabetes-WebApplication
 https://diabetes-web-application.vercel.app/
 
 ---
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish094562&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish094562&layout=compact" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashish094562" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashish094562)
+
 ---
 # 🎯 Areas of Interest
 
