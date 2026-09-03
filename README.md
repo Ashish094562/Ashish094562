@@ -149,7 +149,7 @@ A full-stack machine learning application that predicts student mental health sc
 `Python` `Pandas` `NumPy` `Scikit-Learn` `Random Forest` `FastAPI` `Pydantic` `Joblib` `HTML` `CSS` `JavaScript` `Vercel` `Render`
 
 🔗 **Repository:**  
-https://github.com/Ashish094562/Mental_Health_score
+https://github.com/Ashish094562/Mental_Health_Prediction_score
 
 🌐 **Live Demo:**  
 https://mental-health-prediction-score-oth9xmeky.vercel.app/
