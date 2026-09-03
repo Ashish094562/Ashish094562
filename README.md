@@ -183,7 +183,7 @@ A full-stack machine learning application that predicts Airbnb room types using 
 `Python` `Pandas` `NumPy` `Scikit-Learn` `Random Forest` `FastAPI` `Pydantic` `Joblib` `HTML` `CSS` `JavaScript` `Vercel` `Render`
 
 🔗 **Repository:**  
-https://github.com/Ashish094562/Airbnb_Room_Type_Predictor
+https://github.com/Ashish094562/Airbnb-Room-Type-Predictor
 
 🌐 **Live Demo:**  
 https://airbnb-room-type-predictor.vercel.app/
